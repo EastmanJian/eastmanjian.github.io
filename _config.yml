@@ -8,19 +8,19 @@
 # Site settings
 title: Eastman's Blog
 brief-intro: The grass is no more greener on the other side. 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://45.78.51.215" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: Eastman@18_50935
+twitter_username: 18_50935
 facebook_username: eastman.jian
 github_username:  EastmanJian
 email: 50935@qq.com
 weibo_username: jianym@hotmail.com
 zhihu_username: 13631342825
-linkedIn_username: jianym@hotmail.com
+linkedIn_username: eastman-jian-0818129b
 dribbble_username:
 
 description_footer: I'm loved when I'm completely by myself alone.
